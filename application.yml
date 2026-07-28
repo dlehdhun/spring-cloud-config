@@ -1,0 +1,6 @@
+token:
+  expiration-time: 86400000 #10 days
+  secret: "{cipher}AQDiNRnF3CHpg526lPYi8HZGVExBM+dAEYahJFpMj7WSl6viOK7Wi2E+AV2wKPvOl29v1VXeVWKI3dJl4A7TB4b6RG86FLzJHxcE6UNCO/aBYVyUwRtPYay+OejuOnVrvyTLMrwHc/8TmnbTM89TMzhHdhJwnbm5Oy08W1gZIv79D2oCntFi436rxJ2RT/oQ6HBFxVZLPYXFgd6+8afMt0uL+ygpheZcXWMRvgy7rOqv1dPFiGbmLPstZl8s+R4aZC+CvUk3DRaEQYASan8R+G6UgjMoyrCrLgx0isQXiyIuIOt0jmkIxOMbSncpQpcrm4K/kphTkL3/+EY18gQ4uMauhz9fwoys5QQuHtbA5YQYGDex7KvXJNpBF67jpDN3qx/dbs301PrRfg2OQnZxzJbf22ZHpQucK1f4qtOmCoVFvnGNKvSKXqwmjjU+aAvdfaY="
+
+gateway:
+  ip: 172.16.9.129
