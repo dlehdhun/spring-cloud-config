@@ -1,21 +1,21 @@
-message:
-  greeting: Hello Spring Cloud Bus
+# message:
+#   greeting: Hello Spring Cloud Bus
 
-company:
-  name: NJONE Company
-  ceo: Dong hun
+# company:
+#   name: NJONE Company
+#   ceo: Dong hun
 
-spring:
-  datasource:
-    driver-class-name: org.h2.Driver
-    url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
-    username: sa
-    password: "{cipher}AYCWqVa94YPjvpFxFKRHWS4afRPWg1n+MWXGbKBhGE0XrpytowId5sJQgQsxW3JOVqGkwzyUgrQRvXGicLSti0vD8jZnYg4DXloIST2Pl8ZgO9fCyTr/pVfryIhu3gBAUT+jaXP4uiFpnPLm+dSblvXmnG5hVDj24VOJqM3ewyI4lfReNlDckKdvv5TTzjECfanYSHeyizUdS2y8o3sn0yjkYlQjgkdadvAddSCsZ1I2OA5tsyDspwLwwIgqxbj2drTGbnsqdO43WZ4Su2p4dMXqs1P6wd4qmvVJyGqaKlQhrtaq0owAt6AgU/WzIJ8COTGILTA3BOlZvQetMK2kdxb5WBNw421Miwye68I2gRh29/5fWMKZF5j3GsntjZyH4b22ttFQUhu8f/ox5NF2x6jujOOBCY1KMQ3HrnVMfsenjUcYEIVYtVPZsp5HAKYG7LQteU7fRJHKb0oXtlMjdto0ZBQAY6FpF/+2rsUfzPMnt8gICUZMa2nEET9E0/v1I3dyuxPiSm8z5ZEcelACMp88LuOLDEgignn7LvoOIb5r1xCJwfHRacoHzWGQePcV03Q="
+# spring:
+#   datasource:
+#     driver-class-name: org.h2.Driver
+#     url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1;
+#     username: sa
+#     password: "{cipher}AYCWqVa94YPjvpFxFKRHWS4afRPWg1n+MWXGbKBhGE0XrpytowId5sJQgQsxW3JOVqGkwzyUgrQRvXGicLSti0vD8jZnYg4DXloIST2Pl8ZgO9fCyTr/pVfryIhu3gBAUT+jaXP4uiFpnPLm+dSblvXmnG5hVDj24VOJqM3ewyI4lfReNlDckKdvv5TTzjECfanYSHeyizUdS2y8o3sn0yjkYlQjgkdadvAddSCsZ1I2OA5tsyDspwLwwIgqxbj2drTGbnsqdO43WZ4Su2p4dMXqs1P6wd4qmvVJyGqaKlQhrtaq0owAt6AgU/WzIJ8COTGILTA3BOlZvQetMK2kdxb5WBNw421Miwye68I2gRh29/5fWMKZF5j3GsntjZyH4b22ttFQUhu8f/ox5NF2x6jujOOBCY1KMQ3HrnVMfsenjUcYEIVYtVPZsp5HAKYG7LQteU7fRJHKb0oXtlMjdto0ZBQAY6FpF/+2rsUfzPMnt8gICUZMa2nEET9E0/v1I3dyuxPiSm8z5ZEcelACMp88LuOLDEgignn7LvoOIb5r1xCJwfHRacoHzWGQePcV03Q="
 
-app:
-  payment:
-    apiToken: "{cipher}AQAbOxhef3NJ3e6Ek47o8E4LXSMHCCYSvksMIeOHOCFmWzK69PrfSYfqGiYEJyBoMZWr0byJplkXCa/OEq67XW98Z1GWs94iNbgW8Bqa+7tqrBmXh2iKKaNJ7SNanpT/SDF1AtxbjD8nws9KoXdBS3PuY/AXl/RIrMiMsbbDdaX4b5yIwGsPjHbvxzhaGHbBfyZKPNxaeLnrFgd+rPRbWEl0KeXhQebJo430DbjvW9xz1csVUfOnEtxwneQmpTmetl4W7TDOp8FHuWWRsyvGWypFWUhF/OISSLHYwiJE1px3JQXmP5dd9g+2GmnaVfGT6O6IbWArZHqOFGMRtu/rrY5NR9ls989OIgjN/vyyRw7AIphV8RNlAaPezT0DYFkoTL8="
+# app:
+#   payment:
+#     apiToken: "{cipher}AQAbOxhef3NJ3e6Ek47o8E4LXSMHCCYSvksMIeOHOCFmWzK69PrfSYfqGiYEJyBoMZWr0byJplkXCa/OEq67XW98Z1GWs94iNbgW8Bqa+7tqrBmXh2iKKaNJ7SNanpT/SDF1AtxbjD8nws9KoXdBS3PuY/AXl/RIrMiMsbbDdaX4b5yIwGsPjHbvxzhaGHbBfyZKPNxaeLnrFgd+rPRbWEl0KeXhQebJo430DbjvW9xz1csVUfOnEtxwneQmpTmetl4W7TDOp8FHuWWRsyvGWypFWUhF/OISSLHYwiJE1px3JQXmP5dd9g+2GmnaVfGT6O6IbWArZHqOFGMRtu/rrY5NR9ls989OIgjN/vyyRw7AIphV8RNlAaPezT0DYFkoTL8="
 
-logging:
-  level:
-    root: INFO
+# logging:
+#   level:
+#     root: INFO
